@@ -11,4 +11,5 @@ Hello! I want to present my project in the form of an FreeCam for players as the
 - full control of all camera angles, including rotation etc. (better and cooler than camhack)
 - main menu that can be accessed with the command (/fcam) which displays control inteface in-game
 - Fresh button and icon design with fAwesome6_solid. (better than camhack)
-- 
+
+<a href="https://sfl.gl/kcWR" target="_blank">Download FreeCam</a>
